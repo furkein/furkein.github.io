@@ -1,1 +1,0 @@
-// Menü geçişleri veya efektler için kullanılabilir
