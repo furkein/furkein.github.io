@@ -1,0 +1,1 @@
+Bu proje Furkan Yıldız için hazırlanmıştır. GitHub Pages ile yayınlayabilirsiniz.

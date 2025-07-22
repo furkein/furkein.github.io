@@ -1,0 +1,1 @@
+// Menü tıklamaları için özel JS burada olabilir
